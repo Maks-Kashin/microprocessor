@@ -1,0 +1,8 @@
+﻿  Assembling funcasm.asm...
+funcasm.asm(1): error A2008: syntax error : .
+funcasm.asm(2): error A2008: syntax error : .
+funcasm.asm(9): error A2070: invalid instruction operands
+funcasm.asm(12): error A2070: invalid instruction operands
+funcasm.asm(16): error A2070: invalid instruction operands
+funcasm.asm(18): warning A6004: procedure argument or local not referenced : C
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\funcasm.obj" /W3 /errorReport:prompt  /Tafuncasm.asm" с кодом "1".
