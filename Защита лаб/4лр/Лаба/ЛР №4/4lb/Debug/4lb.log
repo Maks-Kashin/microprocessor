@@ -1,0 +1,4 @@
+﻿  4lb.cpp
+C:\Users\Dmitriy Kasimov\Desktop\ЛР №4\4lb\4lb.cpp(10,50): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Dmitriy Kasimov\Desktop\ЛР №4\4lb\4lb.cpp(18,42): warning C4305: аргумент: усечение из "double" в "float"
+  4lb.vcxproj -> C:\Users\Dmitriy Kasimov\Desktop\ЛР №4\4lb\Debug\4lb.exe

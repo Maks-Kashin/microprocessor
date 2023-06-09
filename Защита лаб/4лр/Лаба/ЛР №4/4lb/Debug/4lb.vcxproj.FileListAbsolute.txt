@@ -1,0 +1,8 @@
+E:\ЦУиМП(Земцов)\Лабы\4lb\Debug\4lb.exe
+E:\ЦУиМП(Земцов)\Лабы\4lb\Debug\4lb.pdb
+D:\ЦУиМП,6 семестр\4lb\Debug\4lb.exe
+D:\ЦУиМП,6 семестр\4lb\Debug\4lb.pdb
+C:\Users\class\Desktop\KASIMOV\4lb\Debug\4lb.exe
+C:\Users\class\Desktop\KASIMOV\4lb\Debug\4lb.pdb
+C:\Users\Maria\Desktop\tmp\ЦУиМ\ЛР №4\Моё\4lb\Debug\4lb.exe
+C:\Users\Dmitriy Kasimov\Desktop\ЛР №4\4lb\Debug\4lb.exe
